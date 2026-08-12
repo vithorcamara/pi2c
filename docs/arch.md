@@ -32,6 +32,9 @@
 │   │   │   ├── Login/       ← Página de autenticação
 │   │   │   └── Dashboard/   ← Painel principal
 │   │   │
+│   │   ├── hooks/          ← Lógicas reutilizáveis
+│   │   │   └── useLocalStorage.jsx ← configuração de armazenamento cache
+│   │   │
 │   │   ├── routes/          ← Configuração de rotas
 │   │   │   └── AppRoutes.jsx
 │   │   │
