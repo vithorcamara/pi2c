@@ -1,0 +1,11 @@
+.listhoras{
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    border-radius: 1rem;
+}
+
+.acoesrapidas .botoes{
+    display: flex;
+    justify-content: space-evenly;
+}

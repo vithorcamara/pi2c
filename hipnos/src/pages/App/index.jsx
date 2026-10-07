@@ -13,7 +13,7 @@ function App() {
 
   return (
     <>
-      <h1>Carregando..</h1>
+      <h1>Carregando...</h1>
       <PWABadge />
     </>
   )

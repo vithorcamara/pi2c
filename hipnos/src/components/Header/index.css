@@ -1,4 +1,21 @@
 header{
-    background-color: aliceblue;
-    color: black;
+    width: 90vw;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+}
+
+.icon-header{
+    font-size: 30px;
+}
+
+@media screen and (min-width: 600px) {
+    body{
+        font-size: 1.25rem;
+    }
+    .welcome{
+        display: flex;
+        align-items: baseline;
+        gap: 5px;
+    }
 }
